@@ -35,7 +35,7 @@ https://priyal-24.github.io/lets-scoop/
 
 ## 📸 Website Preview
 
-![Let's Scoop Preview](screenshot.png)
+![Let's Scoop Preview](Screenshot.png)
 
 ## 🎯 Purpose
 
