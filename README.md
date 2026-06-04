@@ -33,6 +33,10 @@ Visit the live website:
 
 https://priyal-24.github.io/lets-scoop/
 
+## 📸 Website Preview
+
+![Let's Scoop Preview](screenshot.png)
+
 ## 🎯 Purpose
 
 This project was created to strengthen front-end web development skills and demonstrate the use of HTML and CSS in building a modern business website.
